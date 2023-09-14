@@ -20,4 +20,4 @@ jobs:
         with:
           token: ${{ secrets.t }}
           event-type: update
-          repository: PenguinMod/penguinmod.github.io
+          repository: PenguinMod-Dev/penguinmod-dev.github.io
